@@ -1,0 +1,19 @@
+.text-box::first-line {
+    color: pink;
+}
+
+#greycol {
+    color: grey;
+}
+
+.text-box > div > p {
+    color: red;
+}
+
+p:nth-child(7){
+    color: green;
+}
+
+.yellow {
+    color: yellow;
+}
